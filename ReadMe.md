@@ -2,15 +2,14 @@
 
 Welcome to the Case Studies Repository. This repository contains a collection of case studies that cover various topics and industries. Each case study includes detailed analysis, findings, and actionable insights.
 
-## Table of Contents
+### Table of Contents
 
-1. [Visual_Studio_Code:_A_Practical_Case_Study](#Visual Studio Code: A Practical Case Study)
-2. [Wine_Quality_Classification_Using_Weka](#Wine Quality Classification Using Weka)
+1. [Visual_Studio_Code:_A_Practical_Case_Study](#Visual_Studio_Code:_A_Practical_Case_Study)
+2. [Wine_Quality_Classification_Using_Weka](#Wine_Quality_Classification_Using_Weka)
 
-## Case Studies
+### Case Studies
 
-
-### Visual Studio Code: A Practical Case Study
+## Visual_Studio_Code:_A_Practical_Case_Study
 
 #### Presented By: Darshan Pathak
 
@@ -27,9 +26,9 @@ The case study includes a practical demonstration of building a simple web appli
   <img src="VS_Code_Case_Study/screenshot2.png" width="45%">
 </p>
 
-[Project Link]()
+[Project Link](https://github.com/Pathakdarshan12/Case_Study/tree/main/VS_Code_Case_Study)
 
-### Wine Quality Classification Using Weka
+## Wine_Quality_Classification_Using_Weka
 
 #### Presented By: Darshan Pathak
 
@@ -39,14 +38,14 @@ The J48 classifier, known for its effectiveness with categorical data, was appli
 
 Overall, this case study highlights the practical application of classification algorithms in machine learning and their role in data mining.
 
-[Project_Link](link-to-case-study-3)
-
-<hr>
+[Project_Link](https://github.com/Pathakdarshan12/Case_Study/tree/main/Wine_Quality_Classification_Using_Weka)
 
 <p align="center">
   <img src="Wine_Quality_Classification_Using_Weka/screenshot1.png" width="45%">
   <img src="Wine_Quality_Classification_Using_Weka/screenshot2.png" width="45%">
 </p>
+
+<hr>
 
 ## Contact
 <p align="left">
