@@ -8,7 +8,6 @@ Welcome to the Case Studies Repository. This repository contains a collection of
 2. [Wine Quality Classification Using Weka](#Wine_Quality_Classification_Using_Weka)
 
 <hr>
-<hr>
 
 ### Case Studies
 
