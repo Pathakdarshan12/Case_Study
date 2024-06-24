@@ -4,12 +4,12 @@ Welcome to the Case Studies Repository. This repository contains a collection of
 
 ### Table of Contents
 
-1. [Visual_Studio_Code:_A_Practical_Case_Study](#Visual_Studio_Code:_A_Practical_Case_Study)
-2. [Wine_Quality_Classification_Using_Weka](#Wine_Quality_Classification_Using_Weka)
+1. [Visual Studio_Code: A Practical Case Study](#Visual_Studio_Code_A_Practical_Case_Study)
+2. [Wine Quality Classification Using Weka](#Wine_Quality_Classification_Using_Weka)
 
 ### Case Studies
 
-## Visual_Studio_Code:_A_Practical_Case_Study
+## Visual_Studio_Code_A_Practical_Case_Study
 
 #### Presented By: Darshan Pathak
 
